@@ -1,3 +1,4 @@
 [submodule "3.Implementacao/Codigo_Fonte"]
 	path = 3.Implementacao/Codigo_Fonte
 	url = https://github.com/ThiagoSDFlausino/Projeto_Faculdade-Codigo_Fonte.git
+	branch = main
